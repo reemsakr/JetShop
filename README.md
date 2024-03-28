@@ -9,17 +9,17 @@ JetShop is a user-friendly e-commerce web application designed to provide seamle
 - **Optimized Database Interactions**: Object-Relational Mapping (ORM) techniques with connection pooling ensure efficient data retrieval and storage, enhancing overall system performance.
 
 ## Technologies Used
-- **Frontend**:
-  - HTML5
-  - CSS3
-  - JavaScript
-
-- **Backend**:
-  - Servlets
-  - JSP
-
-## Development Period
-February 2024 - March 2024
+- Java Servlet and JSP.
+- Layerd Architecture with MVC and Front Controller design patterns.
+- Hibernate for ORM database operations.
+- MySQL Database.
+- HTML, CSS, Bootstrap for frontend.
+- JavaScript and jQuery for client-side interactions.
+- AJAX for asynchronous operations.
+- Tomcat as the server container.
+- Apache Maven
+- JAXB
+- Model Mapper
 
 ## Installation and Setup
 1. Clone this repository to your local machine.
@@ -40,10 +40,4 @@ February 2024 - March 2024
    - Monitor and analyze sales data.
 
 ## Contributions
-This project was led and developed by [Your Name].
-
-## License
-This project is licensed under the [License Name] license.
-
-## Contact
-For inquiries or support, please contact [Your Email Address].
+Contributions are welcome! If you'd like to contribute to JetShop, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
